@@ -21,9 +21,3 @@ Classification for the AF-type and recurrence AF was unsuccessful.
 Test Results are saved in testresults2 directory. It contains various log files, path files and images 
 directory which consist of various registration images of the dataset.
 
-Some images are as follows
-![](PointNetLK-master/testresults2/images/TestEpoch2__eval_2_Iter5_.jpg)
-
-![](PointNetLK-master/testresults2/images/TestEpoch250__eval_250_Iter20_.jpg)
-
-![](PointNetLK-master/testresults2/images/TestEpoch500__eval_500_Iter5_.jpg)
